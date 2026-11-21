@@ -1,9 +1,11 @@
 # HARBOURLOG: 5 Scenes, 50 Differences, One Keeper's Logbook
 
-A quiet spot-the-difference game. The keeper of a small harbour sketched
-each place twice — once in the morning, once in the evening — and something
-changed between the two sketches. Find all ten changes on every page of
-the logbook.
+[![make.fun · best-spot-the-difference-game-20261121-0451](https://make.fun/badge/best-spot-the-difference-game-20261121-0451.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451?utm_source=github&utm_medium=readme&utm_campaign=best-spot-the-difference-game-20261121-0451)
+[![rank](https://make.fun/badge/best-spot-the-difference-game-20261121-0451/zhazha473/makefun-best-spot-the-difference-game-20261121-0451/rank.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-spot-the-difference-game-20261121-0451)
+[![reward](https://make.fun/badge/best-spot-the-difference-game-20261121-0451/zhazha473/makefun-best-spot-the-difference-game-20261121-0451/reward.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451?utm_source=github&utm_medium=readme&utm_campaign=best-spot-the-difference-game-20261121-0451)
+
+A quiet spot-the-difference game, built for [best-spot-the-difference-game-20261121-0451 on make.fun](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451).
+The keeper of a small harbour sketched each place twice — once in the morning, once in the evening — and something changed between the two sketches. Find all ten changes on every page of the logbook.
 
 ## How to play
 
